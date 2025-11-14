@@ -1,0 +1,4 @@
+
+:root { --app-bg: #0b1015; }
+body { background: var(--app-bg); }
+.pf-v5-c-page__main { background: transparent; }
